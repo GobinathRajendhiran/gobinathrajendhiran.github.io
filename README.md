@@ -1,3 +1,2 @@
-# gobinathrajendhiran.github.io
-it's my personal portfolio content. visit the site to know my skills and abilities on the tech field.
-i have skills in MEAN stack technology and will create seamless application with advance level skills.
+# Gobinath Rajendran - MEAN stack developer
+it's my personal portfolio content. visit the site to know my skills and abilities on the tech field. i have skills in MEAN stack technology and will create seamless application with advance level skills.
